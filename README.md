@@ -2403,7 +2403,13 @@
 * Tailwind CSS Modal Confirmation with alpine js. with style headless ui: [tailwindcomponents.com/component/modal-confirmation-with-alpine-js-with-style-headless-ui](https://tailwindcomponents.com/component/modal-confirmation-with-alpine-js-with-style-headless-ui)
 * Modal Alert Responsive Tailwind CSS: [tailwindcomponents.com/component/modal-alert-responsive-tailwind-css](https://tailwindcomponents.com/component/modal-alert-responsive-tailwind-css)
 * Modal with a subscription form: [tailwindcomponents.com/component/modal-with-a-subscription-form](https://tailwindcomponents.com/component/modal-with-a-subscription-form)
-* Modal Basic Example, Modal components, Modal Positions, Modal Frame, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Tooltips and popovers, Modal Varying modal content, Modal Toggle between modals, Modal Button with icon, Modal Sizes, Modal Fullscreen modal, Modal Non-invasive Modal, Modal Import, Modal Simple notification: [tw-elements.com/docs/standard/components/modal/](https://tw-elements.com/docs/standard/components/modal/)
+* Modal Basic Example, Modal components, Modal Positions
+
+  TWE Pro component, Modal Frame
+
+  TWE Pro component, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Tooltips and popovers, Modal Varying modal content, Modal Toggle between modals, Modal Button with icon, Modal Sizes, Modal Fullscreen modal, Modal Non-invasive Modal
+
+  TWE Pro component, Modal Import, Modal Simple notification: [tw-elements.com/docs/standard/components/modal/](https://tw-elements.com/docs/standard/components/modal/)
 * Modal Default modal, Modal Static modal, Modal Pop-up modal, Modal Form element, Modal Modal with CRUD, Modal Modal with timeline, Modal Modal with progress bar, Modal Crypto wallet, Modal Sizes, Modal Placement, Modal More examples, Modal JavaScript behaviour: [flowbite.com/docs/components/modal/](https://flowbite.com/docs/components/modal/)
 * Modals Topped Modal, Modals Centered Modal, Modals Centered with form, Modals Large size modal: [tailwindadmin.netlify.app/modals](https://tailwindadmin.netlify.app/modals)
 * Tailwind CSS Modal: [tailwindcomponents.com/component/modal-16](https://tailwindcomponents.com/component/modal-16)
@@ -2590,7 +2596,9 @@
 * Navbars Simple Requires JS, Navbars E-Commerce Requires JS, Navbars Search Requires JS, Navbars Avatar Requires JS, Navbars Social Media Links Requires JS, Navbars Categories Requires JS: [merakiui.com/components/navbars](https://merakiui.com/components/navbars)
 * Navbar Please note, Navbar Components Props: [kimia-ui.vercel.app/components/navbar](https://kimia-ui.vercel.app/components/navbar)
 * Breadcrumbs Breadcrumb in navbar: [tw-elements.com/docs/standard/navigation/breadcrumbs/](https://tw-elements.com/docs/standard/navigation/breadcrumbs/)
-* Search Navbar: [tw-elements.com/docs/standard/forms/search/](https://tw-elements.com/docs/standard/forms/search/)
+* Search Navbar
+
+  TWE Pro component: [tw-elements.com/docs/standard/forms/search/](https://tw-elements.com/docs/standard/forms/search/)
 * undefined Header with paragraph, undefined Space between Navbar, undefined Grid 3x with header, undefined Grid 4x2 with header, undefined Grid 4x2 Rounded full with header: [merakiui.com/components/application-ui/skeleton](https://merakiui.com/components/application-ui/skeleton)
 * Tailwind CSS Header sections: [tailwindcomponents.com/component/page-sections-5](https://tailwindcomponents.com/component/page-sections-5)
 * Ecommerce Header with Alpinejs: [tailwindcomponents.com/component/ecommerce-header-with-alpinejs](https://tailwindcomponents.com/component/ecommerce-header-with-alpinejs)
