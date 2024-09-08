@@ -4929,3 +4929,6 @@
 * Price Section: [tailwindcomponents.com/component/price-section](https://tailwindcomponents.com/component/price-section)
 * Dashwind - Admin Dashboard: [tailwindcomponents.com/component/dashwind-admin-dashboard](https://tailwindcomponents.com/component/dashwind-admin-dashboard)
 * Tailstore: [github.com/spacemadev/Tailstore](https://github.com/spacemadev/Tailstore)
+* Tremor: [dashboard.tremor.so/](https://dashboard.tremor.so/)
+* MaterialM (Next.js): [github.com/wrappixel/MaterialM-Tailwind-Nextjs-Free](https://github.com/wrappixel/MaterialM-Tailwind-Nextjs-Free)
+* Spike: [github.com/wrappixel/spike-tailwind-free](https://github.com/wrappixel/spike-tailwind-free)

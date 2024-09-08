@@ -28480,5 +28480,23 @@
     "link": "https://flowbite.com/docs/plugins/datatables/",
     "category": "Table",
     "parent": null
+  },
+  {
+    "name": "Tremor",
+    "link": "https://dashboard.tremor.so/",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "MaterialM (Next.js)",
+    "link": "https://github.com/wrappixel/MaterialM-Tailwind-Nextjs-Free",
+    "category": "Other",
+    "parent": null
+  },
+  {
+    "name": "Spike",
+    "link": "https://github.com/wrappixel/spike-tailwind-free",
+    "category": "Other",
+    "parent": null
   }
 ]
