@@ -833,7 +833,6 @@
 * Header #Base with title, introduction text and call to actions, Header #Base with title, introduction text and call to actions, with background color: [hyperui.dev/components/application-ui/headers](https://www.hyperui.dev/components/application-ui/headers)
 * Pricing #Options with tier, price, features and call to action with highlighted option, Pricing #Options with tier, description, price, call to action and features: [hyperui.dev/components/marketing/pricings](https://www.hyperui.dev/components/marketing/pricings)
 * Banner #Base with center aligned title, text and call to actions, Banner #Base with center aligned title, text and call to actions, dark background and gradient title, Banner #Overlay with left aligned title, text and call to actions, light overlay, Banner #Overlay with left aligned title, text and call to actions, dark overlay: [hyperui.dev/components/marketing/banners](https://www.hyperui.dev/components/marketing/banners)
-* Header #Icon and links on the left, call to actions on the right, Header #Icon on the left, links in the middle and call to actions on the right, Header #Icon on the left, links and call to actions on the right: [hyperui.dev/components/marketing/headers](https://www.hyperui.dev/components/marketing/headers)
 * Cart #Popup with dismiss, items and call to actions, Cart #Popup with dismiss, items and call to actions, change quantity and remove items, Cart #Page with title, items, summary, discounts and call to action, change quantity and remove items: [hyperui.dev/components/marketing/carts](https://www.hyperui.dev/components/marketing/carts)
 
 ## Card
@@ -1578,6 +1577,7 @@
 * Tailwind CSS Popover  inspired by Material Design: [tailwindcomponents.com/component/tailwind-css-popover-inspired-by-material-design](https://tailwindcomponents.com/component/tailwind-css-popover-inspired-by-material-design)
 * Tailwind CSS Popover: [tailwindcomponents.com/component/tailwind-css-popover](https://tailwindcomponents.com/component/tailwind-css-popover)
 * Popover Basic example, Popover Four directions, Popover Dismiss on next click, Popover Disabled, Popover Import, Popover Usage: [tw-elements.com/docs/standard/components/popover/](https://tw-elements.com/docs/standard/components/popover/)
+* Header #Icon on the left, links and user dropdown on the right: [hyperui.dev/components/marketing/headers](https://www.hyperui.dev/components/marketing/headers)
 * Popover Default popover, Popover User profile, Popover Company profile, Popover Image popover, Popover Description popover, Popover Progress popover, Popover Password strength, Popover Placement, Popover Triggering, Popover Offset, Popover Animation, Popover Disable arrow, Popover JavaScript behaviour: [flowbite.com/docs/components/popover/](https://flowbite.com/docs/components/popover/)
 * Select Select input example, Select Multiple options, Select Size attribute, Select Underline select, Select Select with dropdown, Select Sizes: [flowbite.com/docs/forms/select/](https://flowbite.com/docs/forms/select/)
 * Drop Down Component (Dark Mode supported): [tailwindcomponents.com/component/drop-down-component-dark-mode-supported](https://tailwindcomponents.com/component/drop-down-component-dark-mode-supported)
@@ -2403,7 +2403,13 @@
 * Tailwind CSS Modal Confirmation with alpine js. with style headless ui: [tailwindcomponents.com/component/modal-confirmation-with-alpine-js-with-style-headless-ui](https://tailwindcomponents.com/component/modal-confirmation-with-alpine-js-with-style-headless-ui)
 * Modal Alert Responsive Tailwind CSS: [tailwindcomponents.com/component/modal-alert-responsive-tailwind-css](https://tailwindcomponents.com/component/modal-alert-responsive-tailwind-css)
 * Modal with a subscription form: [tailwindcomponents.com/component/modal-with-a-subscription-form](https://tailwindcomponents.com/component/modal-with-a-subscription-form)
-* Modal Basic Example, Modal components, Modal Positions, Modal Frame, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Tooltips and popovers, Modal Varying modal content, Modal Toggle between modals, Modal Button with icon, Modal Sizes, Modal Fullscreen modal, Modal Non-invasive Modal, Modal Import, Modal Simple notification: [tw-elements.com/docs/standard/components/modal/](https://tw-elements.com/docs/standard/components/modal/)
+* Modal Basic Example, Modal components, Modal Positions
+
+  TWE Pro component, Modal Frame
+
+  TWE Pro component, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Tooltips and popovers, Modal Varying modal content, Modal Toggle between modals, Modal Button with icon, Modal Sizes, Modal Fullscreen modal, Modal Non-invasive Modal
+
+  TWE Pro component, Modal Import, Modal Simple notification: [tw-elements.com/docs/standard/components/modal/](https://tw-elements.com/docs/standard/components/modal/)
 * Modal Default modal, Modal Static modal, Modal Pop-up modal, Modal Form element, Modal Modal with CRUD, Modal Modal with timeline, Modal Modal with progress bar, Modal Crypto wallet, Modal Sizes, Modal Placement, Modal More examples, Modal JavaScript behaviour: [flowbite.com/docs/components/modal/](https://flowbite.com/docs/components/modal/)
 * Modals Topped Modal, Modals Centered Modal, Modals Centered with form, Modals Large size modal: [tailwindadmin.netlify.app/modals](https://tailwindadmin.netlify.app/modals)
 * Tailwind CSS Modal: [tailwindcomponents.com/component/modal-16](https://tailwindcomponents.com/component/modal-16)
@@ -2590,7 +2596,9 @@
 * Navbars Simple Requires JS, Navbars E-Commerce Requires JS, Navbars Search Requires JS, Navbars Avatar Requires JS, Navbars Social Media Links Requires JS, Navbars Categories Requires JS: [merakiui.com/components/navbars](https://merakiui.com/components/navbars)
 * Navbar Please note, Navbar Components Props: [kimia-ui.vercel.app/components/navbar](https://kimia-ui.vercel.app/components/navbar)
 * Breadcrumbs Breadcrumb in navbar: [tw-elements.com/docs/standard/navigation/breadcrumbs/](https://tw-elements.com/docs/standard/navigation/breadcrumbs/)
-* Search Navbar: [tw-elements.com/docs/standard/forms/search/](https://tw-elements.com/docs/standard/forms/search/)
+* Search Navbar
+
+  TWE Pro component: [tw-elements.com/docs/standard/forms/search/](https://tw-elements.com/docs/standard/forms/search/)
 * undefined Header with paragraph, undefined Space between Navbar, undefined Grid 3x with header, undefined Grid 4x2 with header, undefined Grid 4x2 Rounded full with header: [merakiui.com/components/application-ui/skeleton](https://merakiui.com/components/application-ui/skeleton)
 * Tailwind CSS Header sections: [tailwindcomponents.com/component/page-sections-5](https://tailwindcomponents.com/component/page-sections-5)
 * Ecommerce Header with Alpinejs: [tailwindcomponents.com/component/ecommerce-header-with-alpinejs](https://tailwindcomponents.com/component/ecommerce-header-with-alpinejs)
@@ -4816,7 +4824,8 @@
 * Mac Terminal: [tailwindcomponents.com/component/mac-terminal](https://tailwindcomponents.com/component/mac-terminal)
 * Theming Introduction, Theming Theme structure, Theming Screens, Theming Colors, Theming Spacing, Theming Customizing the default theme, Theming Extending the default theme, Theming Overriding the default theme: [tw-elements.com/docs/standard/getting-started/theming/](https://tw-elements.com/docs/standard/getting-started/theming/)
 * Contribute Start here, Contribute Start with sharing your feedback, Contribute Vote on the roadmap, Contribute Spread the word, Contribute Help us improve, Contribute Propose new features, Contribute Report bugs, Contribute Ask questions, Contribute Help others, Contribute Open a Pull Request, Contribute Package contributions, Contribute Documentation contributions: [tw-elements.com/docs/standard/getting-started/contribute/](https://tw-elements.com/docs/standard/getting-started/contribute/)
-* Icons Integration Introduction, Icons Integration Top-layer customization, Icons Integration Customization via options and data attributes, Icons Integration Other icon libriaries, Icons Integration Font Awesome, Icons Integration Google icons: [tw-elements.com/docs/standard/getting-started/icons-integration/](https://tw-elements.com/docs/standard/getting-started/icons-integration/)
+* Icons Integration Introduction, Icons Integration Top-layer customization, Icons Integration Customization via options and data attributes
+  TWE Pro component, Icons Integration Other icon libriaries, Icons Integration Font Awesome, Icons Integration Google icons: [tw-elements.com/docs/standard/getting-started/icons-integration/](https://tw-elements.com/docs/standard/getting-started/icons-integration/)
 * Angular Prerequisites, Angular Creating a new Angular application, Angular Installing and configuring Tailwind CSS and TW Elements, Angular Initializing via JS, Angular Troubleshooting, Prerequisites, Creating a new Angular application, Installing and configuring Tailwind CSS and TW Elements, Initializing via JS, Troubleshooting: [tw-elements.com/docs/standard/integrations/angular-integration/](https://tw-elements.com/docs/standard/integrations/angular-integration/)
 * ASP.NET Prerequisites, ASP.NET Creating a new ASP.NET application, ASP.NET Installing and configuring Tailwind CSS and TW Elements: [tw-elements.com/docs/standard/integrations/aspnet-integration/](https://tw-elements.com/docs/standard/integrations/aspnet-integration/)
 * Django Prerequisites, Django Creating a new Django application, Django Installing and configuring Tailwind CSS and TW Elements, Django Initializing via JS, Prerequisites, Creating a new Django application, Installing and configuring Tailwind CSS and TW Elements, Initializing via JS: [tw-elements.com/docs/standard/integrations/django-integration/](https://tw-elements.com/docs/standard/integrations/django-integration/)
