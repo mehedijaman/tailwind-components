@@ -4926,3 +4926,4 @@
 * Spike: [github.com/wrappixel/spike-tailwind-free](https://github.com/wrappixel/spike-tailwind-free)
 * WYSIWYG Getting started, WYSIWYG Default text editor, WYSIWYG Text alignment, WYSIWYG Typography elements, WYSIWYG Configuring links, WYSIWYG Using images, WYSIWYG Adding videos, WYSIWYG Undo and redo, WYSIWYG Exporting data, WYSIWYG Javascript behaviour, WYSIWYG License: [flowbite.com/docs/plugins/wysiwyg/](https://flowbite.com/docs/plugins/wysiwyg/)
 * Three column bento grid: [tailwindui.com/components/preview#component-dc65cfa183921e10d45c401610332cca](https://tailwindui.com/components/preview#component-dc65cfa183921e10d45c401610332cca)
+* Two tiers with emphasized tier: [tailwindui.com/components/preview#component-737ec71198c66a474f144c262597626d](https://tailwindui.com/components/preview#component-737ec71198c66a474f144c262597626d)
