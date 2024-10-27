@@ -325,7 +325,7 @@
 * Breadcrumbs, Breadcrumbs with icons, Breadcrumbs with max-width: [daisyui.com/components/breadcrumbs/](https://daisyui.com/components/breadcrumbs/)
 * Fancy Breadcrumb 4: [fancytailwind.com/app/fancy-laboratory/molecules/breadcrumbs/breadcrumb4](https://fancytailwind.com/app/fancy-laboratory/molecules/breadcrumbs/breadcrumb4)
 * Breadcrumb Default breadcrumb, Breadcrumb Solid background, Breadcrumb Header breadcrumb, Breadcrumb Breadcrumb with dropdown: [flowbite.com/docs/components/breadcrumb/](https://flowbite.com/docs/components/breadcrumb/)
-* Breadcrumb #Home icon and links, split with chevron, Breadcrumb #Home and links, split with chevron background: [hyperui.dev/components/application-ui/breadcrumbs](https://www.hyperui.dev/components/application-ui/breadcrumbs)
+* Breadcrumb #Home icon and links, split with chevron, Breadcrumb #Home icon and links, split with slash, Breadcrumb #Home and links, split with chevron background: [hyperui.dev/components/application-ui/breadcrumbs](https://www.hyperui.dev/components/application-ui/breadcrumbs)
 * Breadcrumb: [mambaui.com/components/breadcrumb](https://mambaui.com/components/breadcrumb)
 * Breadcrumb Basic: [mynaui.com/breadcrumb/#basic](https://mynaui.com/breadcrumb/#basic)
 * Breadcrumb More Items: [mynaui.com/breadcrumb/#more-items](https://mynaui.com/breadcrumb/#more-items)
